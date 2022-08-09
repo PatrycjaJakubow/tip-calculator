@@ -1,0 +1,194 @@
+body {
+  background-color: #C5E4E7;
+  font-family: "Space-Mono", monospace;
+  font-weight: 700;
+  font-size: 14px;
+  color: #5E7A7D;
+}
+
+input {
+  font-family: 'Space Mono', monospace;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.container {
+  margin-top: 10%;
+}
+
+.main-cont {
+  margin: auto;
+}
+
+.bot-width {
+  background-color: #F4FAFA;
+  color: #00494D;
+}
+
+.clkd {
+  background-color: #26C0AB; 
+}
+.background {
+  background-color: #ffffff;
+}
+
+.logo {
+  display: block;
+  text-align: center;
+  margin-bottom: 3.5rem;
+}
+
+.corner {
+  border-radius: 20px;
+
+}
+
+.right {
+  background-color: #00494D;
+height: 90%;
+border-radius: 20px;
+margin: 20px;
+padding: 25px;
+}
+
+.text {
+  color: white;
+  display: inline-block;
+}
+
+.left {
+margin: 20px;
+
+}
+
+.inp-line {
+display:block;
+}
+
+.input-color {
+  background-color: #F4FAFA;
+border: 0;
+margin-bottom: 20px;
+width: 100%;
+}
+
+
+.main-cont{
+  width: 80%;
+}
+
+
+.numberofpeople {
+  margin-top: 20px;
+}
+
+.select {
+  margin-top: 20px;
+}
+
+
+
+.btn {
+  background-color: #00494D;
+  border:0;
+  color: #F4FAFA;
+  width: 30%;
+  margin: 3px;
+  font-size: 18px;
+}
+
+
+
+
+.reset-btn {
+  background-color: #C5E4E7;
+  border:0;
+color: #00494D;
+font-weight: 700;
+width: 85%;
+height: 2rem;
+margin: 80px 8% 0 8%;
+}
+
+
+.img {
+
+  background: url("../images/icon-dollar.svg") no-repeat left;
+  background-size: 12px;
+  background-color: #F4FAFA;
+}
+
+.img-2 {
+
+  background: url("../images/icon-person.svg") no-repeat left;
+  background-size: 12px;
+  background-color: #F4FAFA; }
+
+.lft {
+  width: 70%;
+}
+
+.spn-color {
+  color: #7F9C9F;
+  font-size: 12px;
+}
+
+.rgh {
+color: #26C0AB;
+font-size: 2rem;
+}
+
+.clicked {
+  background-color: #C5E4E7;
+  color: #000000;
+}
+
+.btn:hover {
+    background-color: #C5E4E7;
+    color: #000000;
+}
+
+.no-input {
+  border: 2px solid red;
+}
+
+@media (max-width: 375px) {
+
+.btn {
+
+width: 5.6rem;
+
+}
+
+.bot-width {
+  width: 5.6rem;
+  background-color: #F4FAFA;
+  }
+
+.lft {
+width: 55%;
+}
+.rgh {
+  font-size: 30px;
+  width: 30%;
+}
+
+.reset-btn {
+  margin-top: 8%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
